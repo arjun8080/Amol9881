@@ -13,44 +13,38 @@
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-<a href="mailto:amol7778chimankar@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-</p>
+## 🌐 Connect with Me
+- 📧 Email: **amol7778chimankar@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/
 
 ---
 
 ## 🚀 Languages and Tools
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,mongodb,git,github" />
-</p>
+- HTML  
+- CSS  
+- JavaScript  
+- Java  
+- React  
+- Node.js  
+- MongoDB  
+- Git  
+- GitHub  
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+- Active GitHub contributor
+- Working on improving consistency and project quality
 
 ---
 
 ## 🏆 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+- JavaScript  
+- Java  
+- HTML  
+- CSS  
 
 ---
 
 ## ☕ Support Me
-<a href="https://www.buymeacoffee.com/yourusername">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
-</a>
+If you like my work, consider supporting me ☕
